@@ -113,7 +113,7 @@ ipl-analytics-win-prediction/ │ ├── app.py ├── requirements.txt �
 ## ⚙️ Setup & Installation
 
 ### 1. Clone Repository
-bash git clone https://github.com/your-username/ipl-analytics-win-prediction.git cd ipl-analytics-win-prediction 
+bash git clone https://github.com/saishbob21/ipl-analytics-win-prediction.git cd ipl-analytics-win-prediction 
 
 ### 2. Create Virtual Environment
 bash python3 -m venv .venv source .venv/bin/activate   # Mac/Linux 
